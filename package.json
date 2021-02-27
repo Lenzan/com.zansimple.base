@@ -1,0 +1,35 @@
+{
+  "name": "com.zansimple.base",
+  "version": "1.0.0",
+  "description": "软件开发框架",
+  "author": "zansimple",
+  "license": "MIT",
+  "displayName": "Framework Package",
+  "unity": "2019.4",
+  "samples": [
+    {
+      "displayName": "App Start Demo",
+      "description": "框架入口示例",
+      "path": "Samples~/App Start Demo"
+    },
+    {
+      "displayName": "Unit Model Demo",
+      "description": "单位操作示例",
+      "path": "Samples~/Unit Model"
+    },
+    {
+      "displayName": "Unity WebRequest Entity",
+      "description": "Unity WebRequest 组件",
+      "path": "Samples~/Unity WebRequest Entity"
+    }
+  ],
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lenzan/com.zansimple.base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lenzan/com.zansimple.base/issues"
+  },
+  "homepage": "https://github.com/Lenzan/com.zansimple.base#readme"
+}
